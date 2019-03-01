@@ -14,6 +14,9 @@ margin: 0px auto 0px auto;
 }
 
 body {
-  background-image: url("spiral.gif");
+  background-image: url("");
   background-repeat: repeat;
 }
+
+table {border: none;}
+
